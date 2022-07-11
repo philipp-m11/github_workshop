@@ -1,8 +1,2 @@
 # github_workshop
-
-edit
-edit 1
-edit 2
- last edit #
-
-haha
+This is the README.md file for the GitHub workshop.
